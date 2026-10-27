@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Charity Miles is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://charitymiles.org/
+Charity Miles is a mobile fitness app that lets users earn money for charity by walking, running, or biking. Participants track their activity, and the app donates a pledged amount per mile to a selected nonprofit. It partners with corporate sponsors and offers a platform for charities to engage supporters through physical activity, providing impact metrics and fundraising tools.
+
+**Areas:** Company · Fitness · Charity · MobileApp · Health
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://charitymiles.org/)
+- [Blog](https://charitymiles.org/blog/)
+- [Terms of service](https://charitymiles.org/terms-of-use/)
+- [Privacy policy](https://charitymiles.org/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/charity-miles/](https://apis.io/providers/charity-miles/).
